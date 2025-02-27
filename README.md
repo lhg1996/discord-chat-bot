@@ -19,7 +19,7 @@
 将项目克隆到本地：
 
 ```bash
-git https://github.com/ziqing888/discord-chat-bot.git
+git https://github.com/lhg1996/discord-chat-bot.git
 cd discord-chat-bot
 ```
 ### 2. 安装依赖
